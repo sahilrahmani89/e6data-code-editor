@@ -18,8 +18,8 @@ const E6editor = () => {
     }
     
     let style = '65vh'
-    if(window){
-    style= window.innerWidth>=1280 ? `${debugConsole?'40vh':'65vh'}`:`${debugConsole?'20vh':'30vh'}`
+    if(typeof window !== "undefined"){
+      style= window.innerWidth>=1280 ? `${debugConsole?'40vh':'65vh'}`:`${debugConsole?'20vh':'30vh'}`
     }
     
     return (
