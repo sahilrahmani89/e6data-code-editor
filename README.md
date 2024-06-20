@@ -20,8 +20,8 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/monaco-editor-nextjs.git
-cd monaco-editor-nextjs
+git clone https://github.com/sahilrahmani89/e6data-code-editor.git
+cd e6data-code-editor
 
 
 Project Structure
